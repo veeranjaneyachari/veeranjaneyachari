@@ -4,7 +4,7 @@
 
 <img align="right" width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/1862b3e9-4d91-4674-b950-7b6e0e96ac8e" />
 
-- 🔭 I’m a **Data Engineer**
+- I’m a <h2> DATA ENGNEERING <h2>
 
 - 💬 LinkedIn ** www.linkedin.com/in/veeranjaneyachari.
 
