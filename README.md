@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Veeranjaneya Chari 👋</h1>
 
 <p align="center">
- Data Engineer with over 4 years of experience working on cloud and big-data platforms. I specialize in building scalable ETL pipelines, optimizing Spark workloads, and designing data lakehouse solutions using tools like Databricks, SQL, Python, and cloud services. and I enjoy solving complex data problems and continuously improving data systems
+ Data Engineer with over 5+ years of experience working on cloud and big-data platforms. I specialize in building scalable ETL pipelines, optimizing Spark workloads, and designing data lakehouse solutions using tools like Databricks, SQL, Python, and cloud services. and I enjoy solving complex data problems and continuously improving data systems
 </p>
 
 <img align="right" width="420" alt="Data Engineering" 
